@@ -1,13 +1,11 @@
 # Data-Sourcing-Challenge
 
 <div align='center'>
-    <img src='' height='30' title='' alt='' />
+    <img src='https://images.pexels.com/photos/1200450/pexels-photo-1200450.jpeg' height='300' title='An unlit sign for a movie theater in daylight (image courtesy of Pexels)' alt='An image of an unlit neon sign for a movie theater in daylight' />
 
-*Text*[^1]
+*Data Sourcing Challenge*[^1]
 
 ## Read Me
-
-# **CURRENTLY EDITING README**
 </div>
 
 ## Table of Contents
@@ -50,6 +48,6 @@ Below is a more in-depth explanation of the various cells coded within the `retr
 | ---: | :--- |
 | 1 | X |
 
-[^1]: Image courtesy of free source image site, <a href='ADDRESS' title='Link to Pexels listing for image'>Pexels</a>
+[^1]: Image courtesy of free source image site, <a href='https://www.pexels.com/photo/1-movie-2-signage-under-white-clouds-1200450/' title='Link to Pexels listing for image'>Pexels</a>
 
 [^2]: Markdown cells not annotated
